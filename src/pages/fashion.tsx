@@ -1,0 +1,60 @@
+import React, { Component }  from 'react';
+import f2 from '../components/assets/FASHION/2.png';
+import f3 from '../components/assets/FASHION/3.png';
+import f4 from '../components/assets/FASHION/4.png';
+import f5 from '../components/assets/FASHION/5.png';
+import f6 from '../components/assets/FASHION/6.png';
+import f7 from '../components/assets/FASHION/7.png';
+import f8 from '../components/assets/FASHION/8.png';
+import f9 from '../components/assets/FASHION/9.png';
+
+
+
+const Fashion = () => {
+    return <div>
+        <div className="font-size-str margin-l-3"> "YOU GET ME SO HIGH" </div>
+                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
+                <div className="row margin-t-5">
+                    <div className='column_str'>
+                        <img src={f2}/>
+                    </div>
+                    <div className='column_str'>
+                        <img src={f3} />
+                    </div>
+                </div>   
+            
+                <div className="row">
+                    <div className='column_str'>
+                        <img src={f4} />
+                    </div>
+                    <div className='column_str'>
+                        <img src={f5} />
+                    </div>
+                </div>   
+                
+
+                <div className="row">
+                        <div className='column_str'>
+                        <img src={f6}/>
+                        </div>
+                        <div className='column_str'>
+                            <img src={f7} />
+                        </div>
+                </div>
+            
+                <div className="row">
+                        <div className='column_str'>
+                            <img src={f8} />
+                        </div>
+                        <div className='column_str'>
+                            <img src={f9} />
+                        </div>
+                </div>
+
+                <div className='margin-l-3 margin-t-20'>
+                        <div className='font-size-b next' ><a href="/justgreen"> JUST GREEN ► </a></div>
+                </div>
+            </div>
+}   
+
+export default Fashion;

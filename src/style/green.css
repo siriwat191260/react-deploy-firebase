@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column_three {
+    -ms-flex: 30%; /* IE10 */
+    flex: 30%;
+    max-width: 30%;
+    padding: 30px 4px;
+  }
+  
+  .column_three img {
+        float: left;
+        width:  500px;
+        height: 500px;
+        object-fit: cover;
+
+  }
