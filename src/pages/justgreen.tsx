@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React  from 'react';
 import g1 from '../components/assets/GREEN/1.png';
 import g2 from '../components/assets/GREEN/2.png';
 import g3 from '../components/assets/GREEN/3.png';
@@ -15,38 +15,38 @@ const Justgreen = () => {
                 <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
                     <div className="row">
                         <div className='column_three'>
-                            <img src={g1}/>
+                            <img src={g1} alt=""/>
                         </div>
                         <div className='column_three'>
-                            <img src={g2} />
+                            <img src={g2} alt=""/>
                         </div>
                         <div className='column_three'>
-                            <img src={g3} />
+                            <img src={g3} alt="" />
                         </div>
                     </div>   
                 
                     <div className="row">
                         <div className='column_three'>
-                            <img src={g4} />
+                            <img src={g4} alt="" />
                         </div>
                         <div className='column_three'>
-                            <img src={g5} />
+                            <img src={g5} alt=""/>
                         </div>
                         <div className='column_three'>
-                            <img src={g6} />
+                            <img src={g6} alt=""/>
                         </div>
                     </div>   
                     
 
                     <div className="row">
                             <div className='column_three'>
-                                <img src={g7}/>
+                                <img src={g7} alt=""/>
                             </div>
                             <div className='column_three'>
-                                <img src={g8} />
+                                <img src={g8} alt=""/>
                             </div>
                             <div className='column_three'>
-                                <img src={g9} />    
+                                <img src={g9} alt=""/>    
                             </div>
                     </div>
                 

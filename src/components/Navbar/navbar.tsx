@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React from 'react';
 import insta from '../assets/navbar_image/instagram.png';
 
 

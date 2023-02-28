@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React  from 'react';
 import w1 from '../components/assets/TheWayHome/1.png';
 import w2 from '../components/assets/TheWayHome/2.png';
 import w3 from '../components/assets/TheWayHome/3.png';
@@ -10,13 +10,13 @@ const TheWayHome = () => {
                    
                         <div className="row_wayhome">
                             <div className='column_wayhome'>
-                                <img src={w1}/>
+                                <img src={w1} alt=""/>
                             </div>
                             <div className='column_wayhome'>
-                                <img src={w2} />
+                                <img src={w2} alt=""/>
                             </div>
                             <div className='column_wayhome'>
-                                <img src={w3} />
+                                <img src={w3} alt=""/>
                             </div>
                         </div>
 

@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React  from 'react';
 import str1 from '../components/assets/StreetFood_image/1.png';
 import str2 from '../components/assets/StreetFood_image/2.png';
 import str3 from '../components/assets/StreetFood_image/3.png';
@@ -21,56 +21,56 @@ const StreetFood = () => {
                 <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
                     <div className="row">
                         <div className='column_str'>
-                            <img src={str1}/>
+                            <img src={str1} alt=""/>
                         </div>
                         <div className='column_str'>
-                            <img src={str2} />
+                            <img src={str2} alt=""/>
                         </div>
                     </div>   
                 
                     <div className="row">
                         <div className='column_str'>
-                            <img src={str3} />
+                            <img src={str3} alt=""/>
                         </div>
                         <div className='column_str'>
-                            <img src={str4} />
+                            <img src={str4} alt=""/>
                         </div>
                     </div>   
                     
 
                     <div className="row">
                             <div className='column_str'>
-                            <img src={str5}/>
+                            <img src={str5} alt=""/>
                             </div>
                             <div className='column_str'>
-                                <img src={str6} />
+                                <img src={str6}  alt=""/>
                             </div>
                     </div>
                 
                     <div className="row">
                             <div className='column_str'>
-                                <img src={str7} />
+                                <img src={str7} alt=""/>
                             </div>
                             <div className='column_str'>
-                                <img src={str8} />
+                                <img src={str8} alt=""/>
                             </div>
                     </div>
                     
                     <div className="row">
                             <div className='column_str'>
-                            <img src={str9}/>
+                            <img src={str9} alt=""/>
                             </div>
                             <div className='column_str'>
-                                <img src={str10} />
+                                <img src={str10} alt=""/>
                             </div>
                     </div>
 
                     <div className="row">
                             <div className='column_str'>
-                                <img src={str11} />
+                                <img src={str11} alt=""/>
                             </div>
                             <div className='column_str'>
-                                <img src={str12} />
+                                <img src={str12} alt=""/>
                             </div>
                     </div>
                     <div className='margin-l-3 margin-t-20'>

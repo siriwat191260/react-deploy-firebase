@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React  from 'react';
 import f2 from '../components/assets/FASHION/2.png';
 import f3 from '../components/assets/FASHION/3.png';
 import f4 from '../components/assets/FASHION/4.png';
@@ -16,38 +16,38 @@ const Fashion = () => {
                 <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
                 <div className="row margin-t-5">
                     <div className='column_str'>
-                        <img src={f2}/>
+                        <img src={f2} alt=""/>
                     </div>
                     <div className='column_str'>
-                        <img src={f3} />
+                        <img src={f3} alt=""/>
                     </div>
                 </div>   
             
                 <div className="row">
                     <div className='column_str'>
-                        <img src={f4} />
+                        <img src={f4} alt=""/>
                     </div>
                     <div className='column_str'>
-                        <img src={f5} />
+                        <img src={f5} alt=""/>
                     </div>
                 </div>   
                 
 
                 <div className="row">
                         <div className='column_str'>
-                        <img src={f6}/>
+                        <img src={f6} alt=""/>
                         </div>
                         <div className='column_str'>
-                            <img src={f7} />
+                            <img src={f7} alt=""/>
                         </div>
                 </div>
             
                 <div className="row">
                         <div className='column_str'>
-                            <img src={f8} />
+                            <img src={f8} alt=""/>
                         </div>
                         <div className='column_str'>
-                            <img src={f9} />
+                            <img src={f9} alt=""/>
                         </div>
                 </div>
 
