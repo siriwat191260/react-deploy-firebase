@@ -36,12 +36,12 @@ const Home = () => {
 
                 <div className="row">
                         <div className='column'>
-                            <a href="/wayhome"><img className='fit-img' src={kafka}/></a> 
+                            <a href="/kafka"><img className='fit-img' src={kafka}/></a> 
                             <div className='size-font'> KAFKA FESTIVAL </div>
                         </div>
 
                         <div className='column'>
-                            <a href="/window"><img className='fit-img' src={street}/></a> 
+                            <a href="/streetfood"><img className='fit-img' src={street}/></a> 
                             <div className='size-font'> THE REAL STREET FOOD </div>
                         </div>
                 </div>
