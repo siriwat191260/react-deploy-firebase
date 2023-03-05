@@ -31,7 +31,7 @@ function App() {
             <Route path ="/fashion" element={<Fashion/>}/>
             <Route path ="/justgreen" element={<Justgreen/>}/>
             <Route path ="/wayhome" element={<TheWayHome/>}/>
-            <Route path ="/windowseat" element={<WindowSeat/>}/>
+            <Route path ="/window" element={<WindowSeat/>}/>
             <Route path ="/kafka" element={<Kafka/>}/>
             <Route path ="/streetfood" element={<StreetFood/>}/>
             <Route path ="/cv" element={<CV/>}/>

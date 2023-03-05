@@ -29,7 +29,7 @@ const Kafka = () => {
                 </div>
 
                 <div className='margin-l-3 margin-t-20'>
-                            <div className='font-size-b' ><a href="/windowseat"> ◄ WINDOW SEAT  </a></div>
+                            <div className='font-size-b' ><a href="/window"> ◄ WINDOW SEAT  </a></div>
                             <div className='font-size-b next' ><a href="/streetfood"> THE REAL STREET FOOD ► </a></div>
                     </div>   
 
