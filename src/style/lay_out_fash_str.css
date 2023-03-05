@@ -21,6 +21,11 @@
     margin-left: 3.5%;
   }
 
+  .margin-l-12{
+    margin-left: 12%;
+  }
+
+
   .margin-t-20{
     margin-top: 20%;
   }
@@ -29,6 +34,17 @@
     margin-top: 5%;
   }
 
+  .margin-t-2{
+    margin-top: 2%;
+  }
+
+/*FONT 
+  .h2 font{
+    font-size: 0.5rem;
+    font-family: 'Playfair Display', serif;
+    color: black;
+    
+  }*/ 
   .font-size-str{
         font-size: 3rem;
         font-family: 'Playfair Display', serif;
@@ -41,6 +57,19 @@
     color: black;
     margin-top: 3%;
 }
+    .font-size-str-1point2{
+      font-size: 1.2rem;
+      font-family: 'Playfair Display', serif;
+      color: black;
+      margin-top: 5%;
+    }
+
+    .font-size-str-1point2-nomargin{
+      font-size: 1.2rem;
+      font-family: 'Playfair Display', serif;
+      color: black;
+    }
+
 
 .text-underline{
     text-decoration: underline;

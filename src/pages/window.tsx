@@ -22,7 +22,7 @@ const slideImages = [
 const WindowSeat = () => {
     return <div>
                 <div className="font-size-str margin-l-3"> WINDOW SEAT </div>
-                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
+                <div className="font-size-str-intro margin-l-3"> While I was driving, I unexpectedly saw a perfect shot of the sunset. So I decided to take a quick snap with one hand controlling the wheel </div>
                         <div className="slide-container margin-t-8 box-center">
                             <Slide>
                             {slideImages.map((slideImage, index)=> (

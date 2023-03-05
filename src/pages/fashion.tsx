@@ -13,7 +13,7 @@ import f9 from '../components/assets/FASHION/9.png';
 const Fashion = () => {
     return <div>
         <div className="font-size-str margin-l-3"> "YOU GET ME SO HIGH" </div>
-                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
+                <div className="font-size-str-intro margin-l-12">"YOU GET ME SO HIGH", a fashion shooting with a concept of love couple with an "INEVITABLE BOND". </div>
                 <div className="row margin-t-5">
                     <div className='column_str'>
                         <img src={f2} alt=""/>

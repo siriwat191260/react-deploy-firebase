@@ -10,7 +10,7 @@ import 'react-slideshow-image/dist/styles.css'
 const Kafka = () => {
     return <div>
                 <div className="font-size-str margin-l-3"> KAFKA FESTIVAL </div>
-                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
+                <div className="font-size-str-intro margin-l-3"> Being a photographer at the back, the performers are sculptures for me because everyone wants to capture their best shot, best motion but have to be motionless. </div>
                 
                 <div className='row margin-t-5'>
                     <img src={k1} alt=""/>

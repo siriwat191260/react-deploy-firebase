@@ -6,7 +6,7 @@ import w3 from '../components/assets/TheWayHome/3.png';
 const TheWayHome = () => {
     return  <div>
                 <div className="font-size-str margin-l-3"> THE WAY HOME </div>
-                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
+                <div className="font-size-str-intro margin-l-3"> In a very shot period of time in the US, I walked past this place everyday. So I can see the beauty of this common thing. </div>
                    
                         <div className="row_wayhome">
                             <div className='column_wayhome'>

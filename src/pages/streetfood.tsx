@@ -17,8 +17,8 @@ import str12 from '../components/assets/StreetFood_image/12.png';
 const StreetFood = () => {
     return <div>
                 <div className="font-size-str margin-l-3"> THE REAL STREET FOOD </div>
-                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
-                <div className="font-size-str-intro margin-l-3"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, rem eos, iste quae ut, eaque accusamus odio ipsam nobis neque ratione. Molestiae debitis corrupti magnam nisi eligendi minima nobis dolores. </div>
+                <div className="font-size-str-intro margin-l-3"> It is the first time working for the restaurant and it is in the US. After trying to take food photo, preparing props and following the reference, I found out that it is not my style. So I decided to follow my style in stead. Luckily the restaurant owner really likes my work. He said that this work is very unique and can convey the real street food. </div>
+                <div className="font-size-str-1point2 margin-l-3"> Work for Siam Ginger, Boston, USA </div>
                     <div className="row">
                         <div className='column_str'>
                             <img src={str1} alt=""/>
